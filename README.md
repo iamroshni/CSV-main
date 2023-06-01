@@ -16,7 +16,7 @@ To set up the project on your local system, follow the instructions below.
 ### Installation
 
 1. Clone the repository using the following command:
-   git clone https://github.com/Akashlamba01/csv.git
+   git clone https://github.com/iamroshni/csv-main
 
 2. Create required folder and files based on MVC file structure
 
@@ -28,6 +28,6 @@ To set up the project on your local system, follow the instructions below.
 1. Start the server:
    npm start
    
-2. Open your web browser and navigate to https://csv-file-uploader-akashlamba01.onrender.com/ to access the CSV file uploader application.
+2. Open your web browser and navigate to https://github.com/iamroshni/csv-main to access the CSV file uploader application.
 3. Use the web interface to upload a CSV file.
 4. The server will parse the CSV file and store the data in the MongoDB database.
